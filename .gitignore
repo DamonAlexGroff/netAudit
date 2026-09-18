@@ -1,0 +1,7 @@
+reports/
+configs/
+*.json
+!inventory.example.json
+__pycache__/
+*.pyc
+.venv/
